@@ -1,0 +1,3 @@
+[submodule "angular-stack-template"]
+	path = angular-stack-template
+	url = https://github.com/hectorcustodiozup/angular-stack-template
