@@ -1,0 +1,3 @@
+type: app
+description: Creates a Beagle Angular Application
+template: beagle-stack/angular-stack-template
